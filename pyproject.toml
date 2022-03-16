@@ -17,6 +17,7 @@ replit = "^3.2.4"
 Flask = "^2.0.2"
 discord-py-interactions = "^4.0.0"
 humanize = "^4.0.0"
+python-dotenv = "^0.19.2"
 
 [tool.poetry.dev-dependencies]
 bandit = "^1.7.0"
