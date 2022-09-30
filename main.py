@@ -1,7 +1,4 @@
 from src.bot import ModMail
-from ka import keep_alive
-
-keep_alive()
 
 client = ModMail()
 
