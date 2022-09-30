@@ -1,0 +1,4 @@
+jishaku
+discord-py-interactions
+humanize
+python-dotenv
